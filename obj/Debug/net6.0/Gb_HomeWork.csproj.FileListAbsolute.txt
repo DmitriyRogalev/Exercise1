@@ -1,0 +1,15 @@
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/bin/Debug/net6.0/Gb_HomeWork
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/bin/Debug/net6.0/Gb_HomeWork.deps.json
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/bin/Debug/net6.0/Gb_HomeWork.runtimeconfig.json
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/bin/Debug/net6.0/Gb_HomeWork.dll
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/bin/Debug/net6.0/Gb_HomeWork.pdb
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/obj/Debug/net6.0/Gb_HomeWork.csproj.AssemblyReference.cache
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/obj/Debug/net6.0/Gb_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/obj/Debug/net6.0/Gb_HomeWork.AssemblyInfoInputs.cache
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/obj/Debug/net6.0/Gb_HomeWork.AssemblyInfo.cs
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/obj/Debug/net6.0/Gb_HomeWork.csproj.CoreCompileInputs.cache
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/obj/Debug/net6.0/Gb_HomeWork.dll
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/obj/Debug/net6.0/refint/Gb_HomeWork.dll
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/obj/Debug/net6.0/Gb_HomeWork.pdb
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/obj/Debug/net6.0/Gb_HomeWork.genruntimeconfig.cache
+/Users/dmitriyrogalev/Desktop/Учёба GB/Gb_HomeWork/obj/Debug/net6.0/ref/Gb_HomeWork.dll
